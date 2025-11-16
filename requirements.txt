@@ -1,0 +1,9 @@
+Flask>=2.0
+gunicorn
+python-dotenv
+requests
+flask-limiter
+pytest
+coverage
+# Optional official Google Generative AI SDK (uncomment if available)
+# google-generativeai

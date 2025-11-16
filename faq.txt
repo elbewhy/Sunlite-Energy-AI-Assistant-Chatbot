@@ -1,14 +1,15 @@
-Q: What products do you offer?
-A: We sell solar panels, inverters, batteries, and installation services.
+Company: ExampleCorp
+What we do:
+- Provide cloud-based accounting tools for small businesses.
+- Offer 24/7 customer support and onboarding.
 
-Q: What are your business hours?
-A: We are open from 9AM to 5PM, Monday to Saturday.
+Support Contacts:
+- Email: support@example.com
+- Phone: +1-555-555-5555
 
-Q: How can I contact support?
-A: Email support@sunlite.com or call +2348012345678.
+Common Questions:
+Q: How do I reset my password?
+A: Click 'Forgot password' on the login page and follow the steps.
 
-Q: Do you offer warranty?
-A: Yes, all our products come with a 5-year warranty.
-
-Q: Do you make refunds?
-A: Yes we do refunds when you have genune reason to be refunded.
+Q: What is your refund policy?
+A: We offer a 30-day money-back guarantee on annual plans.
